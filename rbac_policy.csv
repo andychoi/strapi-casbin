@@ -1,0 +1,8 @@
+p, clone, megaSeeds, gather
+p, clone, timeCrystals, gather
+p, sidekick, megaSeeds, consume
+p, sidekick, timeCrystals, consume
+p, evilGenius, megaSeeds, destroy
+p, evilGenius, timeCrystals, destroy
+g, sidekick, clone
+g, evilGenius, sidekick
